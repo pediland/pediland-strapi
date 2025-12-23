@@ -18,24 +18,24 @@
     "@strapi/plugin-cloud": "5.33.0",
     "@strapi/plugin-users-permissions": "5.33.0",
     "@strapi/strapi": "5.33.0",
-    "pg": "8.8.0",
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0",
-    "react-router-dom": "^6.0.0",
-    "styled-components": "^6.0.0"
+    "pg": "8.16.3",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
+    "react-router-dom": "^7.11.0",
+    "styled-components": "^6.1.19"
   },
   "devDependencies": {
-    "@types/node": "^20",
-    "@types/react": "^18",
-    "@types/react-dom": "^18",
-    "typescript": "^5"
+    "@types/node": "^25.0.3",
+    "@types/react": "^19.2.7",
+    "@types/react-dom": "^19.2.3",
+    "typescript": "^5.9.3"
   },
   "engines": {
     "node": ">=20.0.0 <=24.x.x",
     "npm": ">=6.0.0"
   },
   "strapi": {
-    "uuid": "03e63cab-7c0a-44fb-afa8-e04042b91501",
-    "installId": "f67892261a514ea58c44875b6c8814707005794d1561dd3bb84877866c8e58a9"
+    "uuid": "35fe304e-4909-4c20-a70b-1d51c6710a36",
+    "installId": "6487b12831df1f254d9d0ce0f4473c02025e0703d101f10328a74414e2172cdb"
   }
 }
