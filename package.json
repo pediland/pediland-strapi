@@ -20,16 +20,16 @@
     "@strapi/provider-upload-cloudinary": "^5.48.0",
     "@strapi/strapi": "5.48.0",
     "pg": "8.21.0",
-    "react": "^19.2.7",
-    "react-dom": "^19.2.7",
-    "react-router-dom": "^7.17.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.30.1",
     "styled-components": "^6.4.2"
   },
   "devDependencies": {
-    "@types/node": "^25.9.3",
-    "@types/react": "^19.2.17",
-    "@types/react-dom": "^19.2.3",
-    "typescript": "^6.0.3"
+    "@types/node": "^22.19.21",
+    "@types/react": "^18.3.31",
+    "@types/react-dom": "^18.3.7",
+    "typescript": "^5.4.5"
   },
   "engines": {
     "node": ">=20.0.0 <=24.x.x",
