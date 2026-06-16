@@ -15,21 +15,21 @@
     "upgrade:dry": "npx @strapi/upgrade latest --dry"
   },
   "dependencies": {
-    "@strapi/plugin-cloud": "5.36.1",
-    "@strapi/plugin-users-permissions": "5.36.1",
-    "@strapi/provider-upload-cloudinary": "^5.36.1",
-    "@strapi/strapi": "5.36.1",
-    "pg": "8.18.0",
-    "react": "^19.2.4",
-    "react-dom": "^19.2.4",
-    "react-router-dom": "^7.13.0",
-    "styled-components": "^6.3.11"
+    "@strapi/plugin-cloud": "5.48.0",
+    "@strapi/plugin-users-permissions": "5.48.0",
+    "@strapi/provider-upload-cloudinary": "^5.48.0",
+    "@strapi/strapi": "5.48.0",
+    "pg": "8.21.0",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "react-router-dom": "^7.17.0",
+    "styled-components": "^6.4.2"
   },
   "devDependencies": {
-    "@types/node": "^25.3.0",
-    "@types/react": "^19.2.14",
+    "@types/node": "^25.9.3",
+    "@types/react": "^19.2.17",
     "@types/react-dom": "^19.2.3",
-    "typescript": "^5.9.3"
+    "typescript": "^6.0.3"
   },
   "engines": {
     "node": ">=20.0.0 <=24.x.x",
@@ -38,5 +38,6 @@
   "strapi": {
     "uuid": "35fe304e-4909-4c20-a70b-1d51c6710a36",
     "installId": "6487b12831df1f254d9d0ce0f4473c02025e0703d101f10328a74414e2172cdb"
-  }
+  },
+  "packageManager": "pnpm@11.7.0+sha512.19cc852c120c7125760f2443ee6be0ca5b40f9f50598de1a09a1f177503e010e57c23c77646e01e761de59bf874fb22a3398c33ab9691fc13eb946b6f0f4d620"
 }
